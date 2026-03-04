@@ -7,7 +7,7 @@
     },
     "filesystem": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/path/to/crypto-project"],
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "<ABSOLUTE_PATH_TO_CRYPTO_PROJECT>"],
       "description": "Read and write strategy files, portfolio configs, and analysis outputs."
     },
     "fetch": {
