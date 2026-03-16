@@ -71,6 +71,7 @@ One hundred twenty-one production-ready plugins that extend Claude Code with dom
 | [azure-helper](plugins/azure-helper/) | Azure service configuration and deployment automation |
 | [backend-architect](plugins/backend-architect/) | Backend service architecture design with endpoint scaffolding |
 | [bug-detective](plugins/bug-detective/) | Debug issues systematically with root cause analysis and execution tracing |
+| [Bouncer](https://github.com/buildingopen/bouncer) | Independent quality gate that uses Gemini to audit Claude Code's output. Includes Stop hook (automatic), quick audit skill, and deep audit with full tool access. One-liner install. |
 | [bundle-analyzer](plugins/bundle-analyzer/) | Frontend bundle size analysis and tree-shaking optimization |
 | [changelog-gen](plugins/changelog-gen/) | Generate changelogs from git history with conventional commit parsing |
 | [changelog-writer](plugins/changelog-writer/) | Detailed changelog authoring from git history and PRs |
