@@ -45,6 +45,7 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 - [Contexts](#contexts) (5)
 - [Examples](#examples) (3)
 - [Setup](#setup)
+- [Companion Apps](#companion-apps)
 - [Contributing](#contributing)
 
 ---
@@ -729,6 +730,14 @@ claude-code-toolkit/               796 files
   examples/                        3 walkthrough examples
   setup/                           Interactive installer
 ```
+
+---
+
+## Companion Apps
+
+| Name | Description |
+|------|-------------|
+| [Poirot](https://github.com/LeonardoCardoso/Poirot) | A macOS app for browsing Claude Code sessions, viewing diffs, and re-running commands. Reads local transcripts, runs offline |
 
 ---
 
