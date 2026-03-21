@@ -126,6 +126,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [discuss](plugins/discuss/) | Debate implementation approaches with structured pros and cons analysis |
 | [discoclaw](https://github.com/DiscoClaw/discoclaw) | Personal AI orchestrator that bridges Discord to Claude Code with durable memory, task tracking, and cron-based automation |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | Personal genome analysis toolkit that analyzes raw DNA data across 17 categories and generates a terminal-style HTML dashboard |
+| [codetape](https://github.com/888wing/codetape) | The flight recorder for AI coding — auto-records semantic traces and syncs README, CHANGELOG, CLAUDE.md. Zero deps. `npx codetape init` |
 | [doc-forge](plugins/doc-forge/) | Documentation generation, API docs, and README maintenance |
 | [docker-helper](plugins/docker-helper/) | Build optimized Docker images and improve Dockerfile best practices |
 | [double-check](plugins/double-check/) | Verify code correctness with systematic second-pass analysis |
