@@ -641,6 +641,12 @@ Nineteen hook scripts covering all eight Claude Code lifecycle events. Place `ho
 | `notification-log.js` | Notification | Log notifications for later review |
 | `prompt-check.js` | UserPromptSubmit | Detect vague prompts, suggest clarification |
 
+### Related SDKs
+
+If you prefer a typed, npm-installable foundation for writing hooks rather than raw scripts:
+
+- [claude-code-hooks](https://github.com/Payshak/claude-code-hooks) — TypeScript SDK with `defineHook()`, typed event payloads for all 5 hook events, response builders, and unit-testable `.handle()` method. Zero dependencies.
+
 ### Installing Hooks
 
 ```bash
