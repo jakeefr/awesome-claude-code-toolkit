@@ -135,7 +135,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [env-sync](plugins/env-sync/) | Environment variable syncing and diff across environments |
 | [experiment-tracker](plugins/experiment-tracker/) | ML experiment tracking with metrics logging and run comparison |
 | [explore](plugins/explore/) | Smart codebase exploration with dependency mapping and structure analysis |
-| [faf-skills](https://github.com/Wolfe-Jam/faf-skills) | 17 Claude Code skills + plugin for AI-context, testing, and MCP development. IANA-registered format (`application/vnd.faf+yaml`). Create .faf project DNA, score AI-readiness, sync with CLAUDE.md, build MCP servers, generate test suites. Install: `claude /plugin install faf-skills`. 36,000+ downloads |
+| [faf-skills](https://github.com/Wolfe-Jam/faf-skills) | 31 Claude Code skills for persistent project context (.faf, `application/vnd.faf+yaml`). Scoring, sync, testing, publishing, MCP server creation, architecture docs. Anthropic MCP #2759. |
 | [feature-dev](plugins/feature-dev/) | Full feature development workflow from spec to completion |
 | [finance-tracker](plugins/finance-tracker/) | Development cost tracking with time estimates and budget reporting |
 | [fix-github-issue](plugins/fix-github-issue/) | Auto-fix GitHub issues by analyzing issue details and implementing solutions |
@@ -484,7 +484,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | [Product Manager Skills](https://github.com/Digidai/product-manager-skills) | `clawhub install product-manager-skills` | Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | `npx skills add Xquik-dev/x-twitter-scraper` | X API & Twitter scraper skill for AI coding agents -- tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, account monitoring, and 19 extraction tools |
 | [claude-skills](https://github.com/alirezarezvani/claude-skills) | `git clone` | 192 production-ready skills across 9 domains (engineering, marketing, product, compliance, C-level advisory) with 254 Python automation tools. 5,300+ stars |
-| [faf-skills](https://github.com/Wolfe-Jam/faf-skills) | `claude /plugin install faf-skills` | 17 skills for AI-context, testing, and MCP development. IANA-registered format (`application/vnd.faf+yaml`). Create .faf project DNA, score AI-readiness (0-100%), sync with CLAUDE.md, build MCP servers, generate test suites. 36,000+ downloads |
+| [faf-skills](https://github.com/Wolfe-Jam/faf-skills) | `git clone` | 31 Claude Code skills for persistent project context (.faf, `application/vnd.faf+yaml`). Scoring, sync, testing, publishing, MCP server creation, architecture docs. Anthropic MCP #2759. |
 | [n8n-skills](https://github.com/czlonkowski/n8n-skills) | `git clone` | 7 complementary skills for building production-ready n8n workflows. Covers 525+ nodes, 2,653+ templates. 3,400+ stars |
 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | `git clone` | Comprehensive reference implementation for Claude Code configuration -- skills, subagents, hooks, commands with practical examples. 17,400+ stars |
 
