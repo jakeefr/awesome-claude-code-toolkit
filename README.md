@@ -818,6 +818,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [myclaude](https://github.com/stellarlinkco/myclaude) | 2,400+ | Multi-agent orchestration routing to Claude Code, Codex, Gemini, and OpenCode |
 | [claude-code-mcp](https://github.com/steipete/claude-code-mcp) | 1,100+ | Run Claude Code as a one-shot MCP server -- an agent in your agent |
 | [ccmanager](https://github.com/kbwo/ccmanager) | 940+ | Session manager supporting 8 coding agents with smart auto-approval |
+| [Code Insights](https://github.com/melagiri/code-insights) | 8 | Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights |
 
 ---
 
