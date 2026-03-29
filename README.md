@@ -107,6 +107,7 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [code-explainer](plugins/code-explainer/) | Explain complex code and annotate files with inline documentation |
 | [code-guardian](plugins/code-guardian/) | Automated code review, security scanning, and quality enforcement |
 | [code-review-assistant](plugins/code-review-assistant/) | Automated code review with severity levels and actionable feedback |
+| [eliniscan](https://github.com/AlpYenigun/eliniscan) | AI full codebase scanner. Opens a separate Claude session for every file — reads every line, misses nothing. Finds bugs, security, performance issues and auto-fixes. |
 | [codebase-documenter](plugins/codebase-documenter/) | Auto-document entire codebase with inline comments and API docs |
 | [color-contrast](plugins/color-contrast/) | Color contrast checking and accessible color suggestions |
 | [commit-commands](plugins/commit-commands/) | Advanced commit workflows with smart staging and push automation |
