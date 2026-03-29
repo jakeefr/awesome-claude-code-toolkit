@@ -809,6 +809,7 @@ claude-code-toolkit/               800+ files
 | [Claw](https://github.com/jamesrochabrun/Claw) | 86 | Native macOS app wrapping Claude Code SDK in Swift. Plan Mode, MCP Integration, Custom System Prompts |
 | [The Claude Protocol](https://github.com/AvivK5498/The-Claude-Protocol) | 149 | Enforcement layer wrapping Claude Code with 13 hooks -- blocks unsafe operations, enforces worktree isolation |
 | [Notch So Good](https://github.com/deepshal99/notch-so-good) | new | macOS notch-based session monitor with pixel-art companion, 13 animations, smart notifications, multi-session support |
+| [claude-workspace-snapshot](https://github.com/REMvisual/claude-workspace-snapshot) | new | Snapshot and restore live Claude Code sessions as named, color-coded Windows Terminal tabs. Detects running sessions via process inspection and .jsonl file activity. Windows only |
 
 ---
 
