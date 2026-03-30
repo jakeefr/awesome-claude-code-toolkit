@@ -472,6 +472,7 @@ Thirty-five curated skill modules included in this repo, with access to **400,00
 | Database Optimization | `skills/database-optimization/` | Query planning, indexing, N+1 prevention, connection pooling |
 | Frontend Excellence | `skills/frontend-excellence/` | Component architecture, state management, performance budgets |
 | Security Hardening | `skills/security-hardening/` | Input validation, auth patterns, secrets management, CSP |
+| [Prism Scanner](https://github.com/aidongise-cell/prism-scanner) | `pip install prism-scanner` | Agent skill/plugin/MCP security scanner — 39+ rules, AST taint tracking, A-F grading |
 | DevOps Automation | `skills/devops-automation/` | Infrastructure as code, GitOps, monitoring, incident response |
 | Continuous Learning | `skills/continuous-learning/` | Session summaries, learning logs, pattern extraction |
 | React Patterns | `skills/react-patterns/` | Hooks, server components, suspense, error boundaries |
