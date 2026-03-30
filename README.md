@@ -104,6 +104,8 @@ Over 150 production-ready plugins that extend Claude Code with domain-specific c
 | [claude-recap](https://github.com/hatawong/claude-recap) | Per-topic session memory using Shell hooks — archives each conversation topic as a separate Markdown summary. Two hooks, bash + Node.js, 100% local |
 | [claude-rank](https://github.com/Houseofmvps/claude-rank) | SEO/GEO/AEO audit plugin — tells you why AI won't cite your site, then auto-fixes robots.txt, sitemap.xml, llms.txt, and JSON-LD. 170+ rules across 10 scanners, zero config |
 | [claude-sounds](https://github.com/culminationAI/claude-sounds) | Audio feedback for Claude Code hooks — 10 events, 21 sounds, random rotation. macOS (`afplay`). |
+| [claude-code-hooks](https://github.com/yurukusa/claude-code-hooks) | 15 production-tested hooks from 160+ hours of autonomous operation. Destructive command blocker, branch guard, syntax check, context monitor, permission auto-approver. Bash, zero deps |
+| [cc-safe-setup](https://github.com/yurukusa/cc-safe-setup) | One command (`npx cc-safe-setup`) to install 6 essential safety hooks in 10 seconds. Zero dependencies |
 | [claude-supermemory](https://github.com/supermemoryai/claude-supermemory) | Persistent memory across sessions and projects using Supermemory. User profile injection at session start, automatic conversation capture. 2,300+ stars |
 | [code-architect](plugins/code-architect/) | Generate architecture diagrams and technical design documents |
 | [code-explainer](plugins/code-explainer/) | Explain complex code and annotate files with inline documentation |
