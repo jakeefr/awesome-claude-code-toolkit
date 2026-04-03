@@ -171,6 +171,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [gcp-helper](plugins/gcp-helper/) | Google Cloud Platform service configuration and deployment |
 | [git-flow](plugins/git-flow/) | Git workflow management with feature branches, releases, and hotfix flows |
 | [github-issue-manager](plugins/github-issue-manager/) | GitHub issue triage, creation, and management |
+| [harness-evolver](https://github.com/raphaelchristi/harness-evolver) | LangSmith-native autonomous agent optimization. Multi-agent proposers evolve prompts, routing, tools, and architecture in isolated git worktrees. Install: `npx harness-evolver@latest` |
 | [helm-charts](plugins/helm-charts/) | Helm chart generation and upgrade management |
 | [import-organizer](plugins/import-organizer/) | Organize, sort, and clean import statements |
 | [infrastructure-maintainer](plugins/infrastructure-maintainer/) | Infrastructure maintenance with security audits and update management |
