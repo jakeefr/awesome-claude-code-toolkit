@@ -88,6 +88,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [a11y-audit](plugins/a11y-audit/) | Full accessibility audit with WCAG compliance checking |
 | [accessibility-checker](plugins/accessibility-checker/) | Scan for accessibility issues and fix ARIA attributes in web applications |
 | [adr-writer](plugins/adr-writer/) | Architecture Decision Records authoring and management |
+| [AgentLint](https://github.com/0xmariowu/AgentLint) | Lint your repo for AI agent compatibility. 33 evidence-backed checks across 5 dimensions. Claude Code plugin. |
 | [ai-prompt-lab](plugins/ai-prompt-lab/) | Improve and test AI prompts for better Claude Code interactions |
 | [analytics-reporter](plugins/analytics-reporter/) | Generate analytics reports and dashboard configurations from project data |
 | [android-developer](plugins/android-developer/) | Android and Kotlin development with Jetpack Compose |
