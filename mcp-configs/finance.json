@@ -3,7 +3,6 @@
     "chart-library": {
       "command": "python",
       "args": ["-m", "chartlibrary_mcp"],
-      "env": {},
       "description": "Historical chart pattern search engine. Search 24M+ pre-computed embeddings across 15K+ symbols and 10 years of data. 19 tools for pattern matching, forward returns, regime analysis, anomaly detection, and trading signals. Free tier: 200 calls/day, no signup. Install: pip install chartlibrary-mcp"
     },
     "fetch": {
