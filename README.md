@@ -1,6 +1,6 @@
 # Claude Code Toolkit
 
-**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 13 MCP configs, 26 companion apps, 52 ecosystem entries, and more.**
+**The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via [SkillKit](https://agenstskills.com)), 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.**
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -49,7 +49,7 @@ curl -fsSL https://raw.githubusercontent.com/rohitg00/awesome-claude-code-toolki
 - [Hooks](#hooks) (20 scripts)
 - [Rules](#rules) (15)
 - [Templates](#templates) (7)
-- [MCP Configs](#mcp-configs) (13)
+- [MCP Configs](#mcp-configs) (14)
 - [Contexts](#contexts) (5)
 - [Examples](#examples) (3)
 - [Companion Apps & GUIs](#companion-apps--guis)
@@ -824,6 +824,7 @@ Thirteen curated Model Context Protocol server configurations.
 | Design | [`design.json`](mcp-configs/design.json) | Figma design context, Blender 3D automation |
 | Workflow Automation | [`workflow-automation.json`](mcp-configs/workflow-automation.json) | n8n workflow builder, Pipedream integration |
 | Mobile | [`mobile.json`](mcp-configs/mobile.json) | Android ADB automation, Xcode build tools |
+| Finance | [`finance.json`](mcp-configs/finance.json) | Chart Library pattern intelligence, Fetch, Memory |
 
 ---
 
