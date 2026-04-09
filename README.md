@@ -105,6 +105,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [ccmanager](https://github.com/kbwo/ccmanager) | Coding agent session manager supporting Claude Code, Gemini CLI, Codex, Cursor, Copilot, Cline, OpenCode, Kimi CLI. Smart auto-approval via Haiku, devcontainer support. 940+ stars |
 | [ccpm](https://github.com/automazeio/ccpm) | Project management using GitHub Issues + Git worktrees for parallel agent execution. Issue-analyze, epic-start, epic-merge commands. 7,600+ stars |
 | [ccusage](https://github.com/ryoppippi/ccusage) | CLI for analyzing Claude Code/Codex usage from local JSONL files. Daily, monthly, session, billing-window reports. Offline, zero API calls. 11,500+ stars |
+| [building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) | Architecture patterns for multi-agent systems: orchestrator-worker, pipeline, debate, and MapReduce topologies |
 | [bundle-analyzer](plugins/bundle-analyzer/) | Frontend bundle size analysis and tree-shaking optimization |
 | [chief](https://github.com/MiniCodeMonkey/chief) | CLI that wraps Claude Code in a loop. Define a PRD, run chief, go do anything else. Commits after each task, picks up where it left off. Homebrew installable. 380+ stars |
 | [claudebase](https://github.com/rohithzr/claudebase) | Back up, restore, and sync your Claude Code config (settings, skills, agents, hooks, rules, memory, MCP) to a private GitHub repo. Named profiles, secret scanning, multi-machine conflict detection, automatic backups. 158 tests |
@@ -234,11 +235,13 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [regex-builder](plugins/regex-builder/) | Build, test, and debug regular expression patterns |
 | [release-manager](plugins/release-manager/) | Semantic versioning management and automated release workflows |
 | [responsive-designer](plugins/responsive-designer/) | Responsive design implementation and testing |
+| [review-squad](https://github.com/2389-research/review-squad) | Multi-perspective code review via dispatched subagent panels: experts, normie users, pedantic nitpickers, and real-user task runners |
 | [schema-designer](plugins/schema-designer/) | Database schema design and ERD generation |
 | [screen-reader-tester](plugins/screen-reader-tester/) | Screen reader compatibility testing and ARIA fixes |
 | [security-guidance](plugins/security-guidance/) | Security best practices advisor with vulnerability detection and fixes |
 | [seed-generator](plugins/seed-generator/) | Database seeding script generation with realistic data |
 | [sitemd](https://github.com/sitemd-cc/sitemd) | Build websites from Markdown via MCP. 22 tools for creating pages, generating content, configuring settings, running SEO audits, and deploying static sites to Cloudflare Pages |
+| [simmer](https://github.com/2389-research/simmer) | Iterative artifact refinement using judge subagents that score against user-defined criteria across multiple rounds |
 | [slack-notifier](plugins/slack-notifier/) | Slack integration for deployment and build notifications |
 | [smart-commit](plugins/smart-commit/) | Intelligent git commits with conventional format, semantic analysis, and changelog generation |
 | [sprint-prioritizer](plugins/sprint-prioritizer/) | Sprint planning with story prioritization and capacity estimation |
@@ -246,6 +249,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [the-pragmatic-pm](https://github.com/marfoerst/the-pragmatic-pm) | PM leadership toolkit with 43 skills, 5 agents, 4 workflows. Covers PRD generation, OKR lifecycle, pricing, AI pricing, positioning, sales enablement, and quarterly planning. |
 | [terraform-helper](plugins/terraform-helper/) | Terraform module creation and infrastructure planning |
 | [test-data-generator](plugins/test-data-generator/) | Generate realistic test data and seed databases |
+| [test-kitchen](https://github.com/2389-research/test-kitchen) | Parallel implementation exploration using competing subagents, with structured comparison and winner selection |
 | [test-results-analyzer](plugins/test-results-analyzer/) | Analyze test failures, identify patterns, and suggest targeted fixes |
 | [test-writer](plugins/test-writer/) | Generate comprehensive unit and integration tests with full coverage |
 | [tool-evaluator](plugins/tool-evaluator/) | Evaluate and compare developer tools with structured scoring criteria |
