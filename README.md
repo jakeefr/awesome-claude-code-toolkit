@@ -993,6 +993,7 @@ Notable projects, directories, and resources across the Claude Code ecosystem.
 | [Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 7,000+ | Turns any codebase into an interactive knowledge graph for exploration |
 | [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 17,000+ | MCP for Claude Code to build and manage n8n automation workflows |
 | [ToolRouter](https://toolrouter.com) | -- | Give Claude Code superpowers -- 150+ tools on demand with one account. Competitor research, video production, web search, image generation, security scanning, and more. `claude mcp add toolrouter -- npx -y toolrouter-mcp` |
+| [Claudoscope](https://github.com/cordwainersmith/claudoscope) | 29 | Native macOS menu bar app for Claude Code session analytics. Token/cost tracking, full-text search, real-time secret detection, config health linting (44 rules). Reads local JSONL files, fully offline, zero telemetry. Swift/SwiftUI, Homebrew install |
 
 ---
 
